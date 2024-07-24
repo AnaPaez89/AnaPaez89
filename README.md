@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying to become a full-stack developer at [4Geeks](https://4geeks.com/)
 
-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/UZQCbV4OW1mXdHJNPS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/paramountplus-paramount-plus-the-harper-house-UZQCbV4OW1mXdHJNPS">via GIPHY</a></p>
+(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ViZTNtZTd3NTc4M3EyNTljbmdnNnJ4emtmNXZhcXB5NXU2Mjh2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZQCbV4OW1mXdHJNPS/giphy.gif)
 
 
 # 💻 Tech Stack:
