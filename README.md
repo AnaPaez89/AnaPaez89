@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying to become a full-stack developer at [4Geeks](https://4geeks.com/)
 
-<h2 align="center">![Unicorn, Coding From Home](/images/unicorn.gif)</h2>
+<span align="center">![Unicorn, Coding From Home](/images/unicorn.gif)</span>
 
 
 
