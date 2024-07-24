@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently studying to become a full-stack developer at [4Geeks](https://4geeks.com/)
 
-(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ViZTNtZTd3NTc4M3EyNTljbmdnNnJ4emtmNXZhcXB5NXU2Mjh2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UZQCbV4OW1mXdHJNPS/giphy.gif)
+![Tux, the Linux mascot](//images/unicorn.gif)
+
 
 
 # 💻 Tech Stack:
