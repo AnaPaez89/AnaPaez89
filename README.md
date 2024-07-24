@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying to become a full-stack developer at [4Geeks](https://4geeks.com/)
 
-![Tux, the Linux mascot](/images/unicorn.gif)
+<h2 align="center">![Unicorn, Coding From Home](/images/unicorn.gif)</h2>
 
 
 
