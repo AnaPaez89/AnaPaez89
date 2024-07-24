@@ -6,7 +6,7 @@
 <span align="center">![Unicorn, Coding From Home](/images/unicorn.gif)</span>
 
 <p align="center" width="100%">
-    <img width="33%" src="[https://i.sstatic.net/RJj4x.png](https://github.com/AnaPaez89/AnaPaez89/blob/main/images/unicorn.gif)">
+    <img width="33%" src="[[https://i.sstatic.net/RJj4x.png](https://github.com/AnaPaez89/AnaPaez89/blob/main/images/unicorn.gif)](https://github.com/AnaPaez89/AnaPaez89/blob/main/images/unicorn.gif)">
 </p>
 
 # 💻 Tech Stack:
