@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana Páez</h1>
-<h3 align="center">a graphic designer from Colombia who lives in Spain, with knowledge in animation, HTML5, CSS3, SEO, SEM and social media.</h3>
+<h3 align="center">a full stack web developer & graphic designer from Colombia who lives in Spain, with knowledge in animation, HTML5, CSS3, JavasScript, Rect, Python, Flask, SEO, SEM and social media.</h3>
 
-- 🌱 I finished studying full-stack development at [4Geeks](https://4geeks.com/)
-- 🚀 I am currently working on the web application ExpenseVue.
+- 🚀 I am currently working on the web application Roomie Routines.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasapuri) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anasapuri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anasapuri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anasapuri) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@anasapuri) 
