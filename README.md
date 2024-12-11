@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Páez</h1>
-<h3 align="center">a full stack web developer & graphic designer from Colombia who lives in Spain, with knowledge in animation, HTML5, CSS3, JavasScript, Rect, Python, Flask, SEO, SEM and social media.</h3>
+<h3 align="center">a full stack web developer & graphic designer from Colombia who lives in Spain, with knowledge in animation, HTML5, CSS3, JavasScript, React, Python, Flask, SEO, SEM and social media.</h3>
 
 - 🚀 I am currently working on the web application Roomie Routines.
 
